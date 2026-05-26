@@ -10,6 +10,10 @@ const CHANNEL_ID = '1489009426177458457';
 
 const mensagens = [
     {
+    horario: '50 15 * * *',
+    texto: '@everyone ✅ TESTE DO BOT FUNCIONANDO!'
+},
+    {
         horario: '15 0 * * 1-6',
         texto: '@everyone 🌌 Atenção! A Invasão Estelar começará em 10 minutos.'
     },
