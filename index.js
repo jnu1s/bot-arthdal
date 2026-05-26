@@ -6,7 +6,7 @@ const client = new Client({
 });
 
 // COLOQUE O ID DO CANAL AQUI
-const CHANNEL_ID = 'COLOQUE_AQUI';
+const CHANNEL_ID = '1489009426177458457';
 
 const mensagens = [
     {
